@@ -38,24 +38,6 @@ Main observations:
 •	Reasonable computation times for medium-size instances
 ________________________________________
 
-📂 Project Structure
-tsp-hybrid-optimization
-│
-├── instances
-│   └── tsp_instances
-│
-├── tsp_reader.py
-├── nearest_neighbor.py
-├── two_opt.py
-├── simulated_annealing.py
-└── main.py
-│
-├── report
-│   └── tsp_report.pdf
-│
-└── README.md
-________________________________________
-
 🚀 How to Run the Project
 1.	Clone the repository:
 git clone https://github.com/your-username/tsp-hybrid-optimization.git
