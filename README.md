@@ -22,6 +22,7 @@ The combination of these methods allows the algorithm to benefit from:
 ________________________________________
 
 📊 Dataset
+
 Experiments were conducted using benchmark instances from the TSPLIB library, a well-known dataset for evaluating algorithms for the Traveling Salesman Problem.
 Examples of instances used:
 •	eil51
@@ -30,6 +31,7 @@ Examples of instances used:
 ________________________________________
 
 🧪 Experimental Results
+
 The hybrid approach significantly improves the quality of the initial solution produced by the Nearest Neighbor heuristic.
 Main observations:
 •	Reduction in total tour distance
